@@ -1,4 +1,4 @@
-[](https://github.com/KayvanShah1/Jigsaw_multilingual_toxic_comment_classification/blob/master/Images/header.png)
+![](https://github.com/KayvanShah1/Jigsaw_multilingual_toxic_comment_classification/blob/master/Images/header.png)
 # Jigsaw Multilingual Toxic Comment Classification
 
 It a Kaggle competition.
