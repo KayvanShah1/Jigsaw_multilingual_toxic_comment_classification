@@ -1,7 +1,5 @@
-
-# Jigsaw Multilingual Toxic Comment Classification
 ![Header image](https://github.com/KayvanShah1/Jigsaw_multilingual_toxic_comment_classification/blob/master/Images/header.png)
-
+# Jigsaw Multilingual Toxic Comment Classification
 It a Kaggle competition.
 The repository consists of all the python notebooks with various models tried.
 
