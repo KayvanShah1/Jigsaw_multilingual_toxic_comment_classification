@@ -1,9 +1,10 @@
+[](https://github.com/KayvanShah1/Jigsaw_multilingual_toxic_comment_classification/blob/master/Images/header.png)
 # Jigsaw Multilingual Toxic Comment Classification
 
 It a Kaggle competition.
 The repository consists of all the python notebooks with various models tried.
 
-[Yo]()
+
 
 ## Link to the dataset: 
 [Original data](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/data) 
