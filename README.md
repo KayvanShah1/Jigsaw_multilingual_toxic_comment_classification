@@ -47,13 +47,13 @@ integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>XLM-RoBERTa</td>
-      <td>85.83</td>
+      <td>Distil-BERT</td>
+      <td>87.41</td>
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>Distil-BERT</td>
-      <td>87.41</td>
+      <td>XLM-RoBERTa</td>
+      <td>85.83</td>
     </tr>
     <tr>
       <th scope="row">7</th>
