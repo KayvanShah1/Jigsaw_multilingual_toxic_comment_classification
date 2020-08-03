@@ -14,7 +14,44 @@ As our computing resources and modeling capabilities grow, so does our potential
 *Description from [competition page](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview/description)*
 
 # Results:
-
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" 
+integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+<table class="table table-dark table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Model name</th>
+      <th scope="col">Accuracy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Roberta</td>
+      <td>Otto</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Electra</td>
+      <td>Otto</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Mark</td>
+      <td>Otto</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Mark</td>
+      <td>Otto</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>Mark</td>
+      <td>Otto</td>
+    </tr>
+  </tbody>
+</table>
 
 # Contributors:
 1. **Kayvan Shah** - *Modelling, Data Pipelines, EDA*
