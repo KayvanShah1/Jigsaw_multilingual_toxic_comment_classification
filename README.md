@@ -37,17 +37,32 @@ integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Mark</td>
+      <td>XLM-RoBERTa</td>
       <td>Otto</td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>Mark</td>
+      <td>AlBERTa</td>
       <td>Otto</td>
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>Mark</td>
+      <td>BERT</td>
+      <td>Otto</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>Distil-BERT</td>
+      <td>Otto</td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>Embeddings+Conv</td>
+      <td>Otto</td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>Simple Embeddings</td>
       <td>Otto</td>
     </tr>
   </tbody>
