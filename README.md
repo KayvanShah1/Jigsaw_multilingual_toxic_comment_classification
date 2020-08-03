@@ -21,49 +21,49 @@ integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ
     <tr>
       <th scope="col">#</th>
       <th scope="col">Model name</th>
-      <th scope="col">Accuracy</th>
+      <th scope="col">Accuracy (%)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
       <td>Roberta</td>
-      <td>Otto</td>
+      <td>90.49</td>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>Electra</td>
-      <td>Otto</td>
+      <td>89.90</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>XLM-RoBERTa</td>
-      <td>Otto</td>
+      <td>AlBERTa</td>
+      <td>88.80</td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>AlBERTa</td>
-      <td>Otto</td>
+      <td>BERT</td>
+      <td>88.46</td>
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>BERT</td>
-      <td>Otto</td>
+      <td>XLM-RoBERTa</td>
+      <td>85.83</td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>Distil-BERT</td>
-      <td>Otto</td>
+      <td>87.41</td>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>Embeddings+Conv</td>
-      <td>Otto</td>
+      <td>85.00</td>
     </tr>
     <tr>
       <th scope="row">8</th>
       <td>Simple Embeddings</td>
-      <td>Otto</td>
+      <td>65.68</td>
     </tr>
   </tbody>
 </table>
