@@ -68,6 +68,9 @@ integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ
   </tbody>
 </table>
 
+# Notebooks
+1. [`Roberta-Large`](https://www.kaggle.com/code/kayvanshah/roberta-large-2)
+
 # Contributors:
 1. **Kayvan Shah** - *Modelling, Data Pipelines, EDA*
 2. **Abneet Wats** - *Modelling, Data Pipelines*
