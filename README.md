@@ -1,4 +1,4 @@
-# Jigsaw Multilingual Toxic Comment Classification
+# Rate Severity & Toxicity Classification of Social Media Comments
 
 ![Header image](/Images/header.png)
 
